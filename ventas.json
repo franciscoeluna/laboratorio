@@ -1,0 +1,20 @@
+{
+    "20240814112332884793": {
+        "fecha": "2024-08-14",
+        "cliente": "Francisco",
+        "productos": [
+            "hojas a4"
+        ],
+        "tipo": "VentaOnline",
+        "direccion_envio": "los andes"
+    },
+    "20240814112616940872": {
+        "fecha": "2024-08-14",
+        "cliente": "Ricardo",
+        "productos": [
+            "sobres a4"
+        ],
+        "tipo": "VentaLocal",
+        "tienda": "libreria"
+    }
+}
